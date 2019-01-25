@@ -1,0 +1,151 @@
+/home/asixdam1b/andres.txt
+/home/asixdam1b/examples.desktop
+/home/asixdam1b/P1-Ex1.sh
+/home/asixdam1b/P1-Ex2.sh
+/home/asixdam1b/prueba.sh
+/home/asixdam1b/prueba.xml
+
+/home/asixdam1b/Baixades:
+actividad-6.zip
+android-x86_64-7.1-r2.iso
+DAM1-ASIX1-M1-UF1-RA1-P5-Instalacio-SO.odt
+DAM1-ASIX1-M1-UF1-RA1-P5-Instalacio-SO.pdf
+DAM M04 UF1 - Lliurable 2 - Estructura dun document XML.pdf
+DAM M04 UF1 - Lliurable 3 - Namespaces.odt
+DAM M04 UF1 - Lliurable 4 - Exemple 1.xml
+DAM M04 UF1 - Lliurable 5 - XSD.odt
+DAM-MP03-UF1-Pe1 - Sentències de control.pdf
+debian-8.6.0-amd64-i386-netinst.iso
+DIAGRAMA 1.png
+DIAGRAMA 2(1).png
+DIAGRAMA 2.png
+DIAGRAMA 3(1).png
+DIAGRAMA 3.png
+DIAGRAMA 4(1).png
+DIAGRAMA 4(2).png
+DIAGRAMA 4.png
+DIAGRAMA 5(1).png
+DIAGRAMA 5.png
+E2-UF1-RA1-RA2-Ordres-LINUX-Obtenir informacio-del-Maquinari-System(1).odt
+E2-UF1-RA1-RA2-Ordres-LINUX-Obtenir informacio-del-Maquinari-System.odt
+ejercicio2.java
+ejercicio 2.pdf
+ejercicio7.zip
+empresa-postgres-data.sql
+empresa_schema-constraints.sql
+empresa_schema-taules.sql
+Exercici 1.pdf
+exerciciBBDD1.pdf
+exercicis preliminars.odt
+formResult.html
+formResult.zip
+idea-IC-182.4505.22-20181008T151421Z-001.zip
+interrelaciones.png
+java-20181008T151051Z-001.zip
+M02UF1P4_DiagramasEntidadRelacion(1).pdf
+M02UF1P4_DiagramasEntidadRelacion.pdf
+M1-UF1-P7-Proces-BOOT-Gestors-Arrancada-GRUB.odt
+M1-UF1-P7-Proces-BOOT-Gestors-Arrancada-GRUB.pdf
+M1-UF1-RA1-P3-Plaques-Mare-Components.odt
+M1-UF1-RA1-P6-DAM1-ASIX1-estructura-i-comparativa-SO.odt
+P1 – MECANISMES del Bash Shell _ Variables de Shell.pdf
+P4-entorn_usuari_ANDRÉS_BRAVO.pdf
+P4-entorn_usuari.odt
+P4-entorn_usuari.pdf
+P8-UF1-Programari-Tipus-Llicencies-Instalacio.odt
+Rubrica d’avaluació(1).pdf
+Rubrica d’avaluació.pdf
+SANITAT.pdf
+SoftwareLibreParaUnaSociedadLibre.pdf
+ubuntu-18.04.1-server-amd64.iso
+Ubuntu-18.04-Desktop-Лена.ova
+Ubuntu-18.04-Server-Луноход.ova
+UbuntuClient.ova
+UbuntuServer.ova
+UF1-E3-Arrencada_ordinador-SO-MBR-Gestor_arrencada-Kernel.odt
+validator.zip
+VIDEOCLUB.pdf
+
+/home/asixdam1b/bin:
+dades
+mola.dat
+P1
+P2
+
+/home/asixdam1b/dades:
+configuracio
+copies
+programes
+seguretat
+
+/home/asixdam1b/Documents:
+contacte.html
+css
+ejemplo.xml
+ejemplo.xsd
+formResult.html
+index0.html
+index.html
+psql
+readme.txt
+validator.js
+
+/home/asixdam1b/Escriptori:
+
+/home/asixdam1b/hola:
+
+/home/asixdam1b/idea-IC-182.4505.22:
+bin
+build.txt
+Install-Linux-tar.txt
+jre64
+lib
+license
+LICENSE.txt
+NOTICE.txt
+plugins
+redist
+
+/home/asixdam1b/IdeaProjects:
+array_10_numeros
+array_pedir
+Arrays
+bank
+ejercicio
+exemple
+number
+problema1
+problema2
+problema3
+programame
+prueba
+prueba_ejercico1
+untitled
+
+/home/asixdam1b/Imatges:
+Captura de pantalla de 2019-01-24 17-48-37.png
+Captura de pantalla de 2019-01-24 17-48-55.png
+
+/home/asixdam1b/Música:
+
+/home/asixdam1b/Plantilles:
+
+/home/asixdam1b/prueba:
+
+/home/asixdam1b/Públic:
+
+/home/asixdam1b/snap:
+atom
+chromium
+gnome-calculator
+vscode
+
+/home/asixdam1b/Vídeos:
+
+/home/asixdam1b/VirtualBox VMs:
+ANDROID
+BASE DE DATOS
+DEBIAN_JOAQUIN
+Ubuntu-18.04-Desktop-Лена
+Ubuntu-18.04-Server-Луноход
+ubuntu server
