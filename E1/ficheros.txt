@@ -1,0 +1,9 @@
+/home/asixdam1b/Documents/contacte.html
+/home/asixdam1b/Documents/ejemplo.xml
+/home/asixdam1b/Documents/ejemplo.xsd
+/home/asixdam1b/Documents/formResult.html
+/home/asixdam1b/Documents/index0.html
+/home/asixdam1b/Documents/index.html
+/home/asixdam1b/Documents/psql
+/home/asixdam1b/Documents/readme.txt
+/home/asixdam1b/Documents/validator.js
