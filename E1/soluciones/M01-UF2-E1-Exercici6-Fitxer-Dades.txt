@@ -1,0 +1,12 @@
+jornada:jugador:equip_jugador:num_gols:equip_golejat
+1:Messi:Barça:3:Madrid
+1:Coutinho:Barça:1:Madrid
+2:Griezmann:At.Madrid:1:Madrid
+2:Stuani:Girona:3:Levante
+2:Messi:Barça:1:Valencia
+3:Suarez:Barça:1:Betis
+3:Coque:At.Madrid:1:Espanyol
+4:Suarez:Barça:1:Sevilla
+4:Messi:Barça:1:Sevilla
+5:Dani:Espanyol:1:Osasuna
+5:dembele:Barça:1:Corunya
