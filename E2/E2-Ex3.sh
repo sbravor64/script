@@ -17,18 +17,21 @@ geditC=$(ps aux | grep "gedit" | sed '/grep/d' | cut -d" " -f2)
 chromiumC=$(ps aux | grep "chromium" | sed '/grep/d' | cut -d" " -f2 | head -1)
 
 if [ "$file" = "calculadora" ]; then
-	if [ $calcC ];
+	if [ $calcC ]
 	then
-		echo "Está en ejecución"
-		echo "Procedemos a cerrar la aplicación"
-		sleep 2
-		kill -9 $calcC
+		for i in $calcC
+		do
+			echo "Está en ejecución"
+			echo "Procedemos a cerrar la aplicación"
+			sleep 2
+			kill -9 $calcC
+		done
 	else
 		echo "No está ejecutado"
 		echo "Procedemos a ejecutarlo"
 		sleep 2
-		gnome-calculator	
-	fi
+		gnome-calculator
+	fi	
 
 elif [ "$file" = "firefox" ]; then
 	if [ $firefoxC ];
