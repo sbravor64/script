@@ -4,7 +4,7 @@
 selec=$(zenity --width=360 --height=320 --list --title "Favourites" --text "Open..." --column Fitxer-URL "CarpetaDades" "TutorialBashPDF" "Softcatala" "FSM")
 
 ruta_treball=$HOME/dades
-ruta_pdfs=$HOME/pdfs
+ruta_pdfs= ejemplo.pdf
 
 
 case $selec in
@@ -18,20 +18,21 @@ case $selec in
 	xdg-open $ruta_pdfs/test.pdf 2>/dev/null
 	echo " "
 	echo "Procesos del programa:"
-	ps -ef | grep "test.pdf" | sed '/grep/d' | cut -d" " -f2
+	ps -ef | grep "pdf" | sed '/grep/d' | cut -d" " -f2
+
             ;;
     "Softcatala")
 	xdg-open "http://www.softcatala.org"
 	echo " "
 	echo "Procesos del programa:"
-	ps -ef | grep "softcatala" | sed '/grep/d' | cut -d" " -f2
+	ps -ef | grep "firefox" | sed '/grep/d' | cut -d" " -f2 | tail -n1
 
             ;;
     "FSM")
 	xdg-open "http://www.freesoftwaremagazine.com"
 	echo " "
 	echo "Procesos del programa:"
-	ps -ef | grep "freesoftwaremagazine" | sed '/grep/d' | cut -d" " -f2
+	ps -ef | grep "firefox" | sed '/grep/d' | cut -d" " -f2 | tail -n1
             ;;
     *) 
 	echo "Ai va la hostia Patxi!!!"
