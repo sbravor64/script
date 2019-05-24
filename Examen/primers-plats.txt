@@ -1,0 +1,6 @@
+Sopa|5 
+Escalivada|6 
+Amanida|7
+Lassanya|8
+
+
